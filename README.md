@@ -7,7 +7,7 @@ Empirical and theoretical investigation of the Pressure–Time Field (PTF) frame
 ### 📚 How to Cite
 If you use this dataset or framework, please cite:
 > Voigt, D.R., & Jarvis (AI). *Pressure–Time Field Investigation Pack – 3I/ATLAS (Version 3.3)*. GitHub, 2025.  
-DOI: [10.5281/zenodo.xxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxx)
+DOI: [10.5281/zenodo.17504021] https://doi.org/10.5281/zenodo.17504021
 ---
 
 # Pressure–Time Field Investigation Pack – 3I/ATLAS (Version 3.3)
