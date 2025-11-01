@@ -1,5 +1,15 @@
 # PTF-3I-ATLAS
 Empirical and theoretical investigation of the Pressure–Time Field (PTF) framework using the interstellar object 3I/ATLAS (Version 3.3 – Revised Peer-Review Edition)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+
+---
+### 📚 How to Cite
+If you use this dataset or framework, please cite:
+> Voigt, D.R., & Jarvis (AI). *Pressure–Time Field Investigation Pack – 3I/ATLAS (Version 3.3)*. GitHub, 2025.  
+DOI: [10.5281/zenodo.xxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxx)
+---
+
 # Pressure–Time Field Investigation Pack – 3I/ATLAS (Version 3.3)
 
 **Authors:** David Rømer Voigt with analytical support from Jarvis (AI Research Collaborator)  
@@ -67,6 +77,6 @@ The repository will be mirrored on **Zenodo** to obtain a permanent DOI for cita
 **Project Lead:**  
 David Rømer Voigt  
 Pressure–Time Field Project  
-(contact email)
+(contact email - drsv@outlook.dk)
 
 ---
