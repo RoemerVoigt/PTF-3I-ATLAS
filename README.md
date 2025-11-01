@@ -1,7 +1,7 @@
 # PTF-3I-ATLAS
 Empirical and theoretical investigation of the Pressure–Time Field (PTF) framework using the interstellar object 3I/ATLAS (Version 3.3 – Revised Peer-Review Edition)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://zenodo.org/badge/1087911561.svg)](https://doi.org/10.5281/zenodo.17504021)
 
 ---
 ### 📚 How to Cite
